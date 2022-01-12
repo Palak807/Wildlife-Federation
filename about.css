@@ -45,3 +45,13 @@
     border: none;
     cursor: pointer;
 }
+.btn2{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#ffa700 ;
+    border-radius: 3px;
+    color: #532915;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+}
